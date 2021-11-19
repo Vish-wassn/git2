@@ -59,3 +59,28 @@ cd share
 ls
 cd
 sudo su
+git remote -v 
+ls
+cd .git
+ls -la
+cd
+git config --global user.name "Vish-wassn"
+git config --global user.email "snvishwas645@gmail.com"
+git commit -m "my 2first commit"
+git remote add origin https://github.com/Vish-wassn/gittest.git
+git remote - v
+git remote -v
+git push origin master
+git push -u origin main
+git /config 
+git config --globle --list
+git config 
+git push origin master
+git /config git remote -v
+git remote -v
+git push -u origin main
+git commit -m "mistaken"
+git add .
+git commit -m "mistaken"
+git status
+git push -u origin main
