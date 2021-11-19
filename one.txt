@@ -1,2 +1,4 @@
 created one file:wq
-update the file checking of rnew commit
+update the file checking of rnew commi
+t
+updated the file checking for second commit
