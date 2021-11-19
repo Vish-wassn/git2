@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637308750,,"wq"
+|2,0,1637308526,,"wq"
 :q!
 |2,0,1637303356,,"q!"
 
@@ -27,32 +27,28 @@
 # Registers:
 
 # File marks:
-'0  4  42  ~/one.txt
-|4,48,4,42,1637308750,"~/one.txt"
-'1  2  38  ~/one.txt
-|4,49,2,38,1637308526,"~/one.txt"
-'2  2  38  ~/one.txt
-|4,50,2,38,1637308526,"~/one.txt"
-'3  2  0  ~/one.txt
-|4,51,2,0,1637307637,"~/one.txt"
-'4  2  0  ~/one.txt
-|4,52,2,0,1637307637,"~/one.txt"
-'5  1  34  ~/new.txt
-|4,53,1,34,1637304005,"~/new.txt"
-'6  2  15  ~/mast.txt
-|4,54,2,15,1637303421,"~/mast.txt"
-'7  1  2  ~/test.txt
-|4,55,1,2,1637303356,"~/test.txt"
-'8  8  46  ~/docker/dockerfile
-|4,56,8,46,1637034904,"~/docker/dockerfile"
-'9  1  0  /etc/passwd
-|4,57,1,0,1636615421,"/etc/passwd"
+'0  2  38  ~/one.txt
+|4,48,2,38,1637308526,"~/one.txt"
+'1  2  0  ~/one.txt
+|4,49,2,0,1637307637,"~/one.txt"
+'2  1  34  ~/new.txt
+|4,50,1,34,1637304005,"~/new.txt"
+'3  2  15  ~/mast.txt
+|4,51,2,15,1637303421,"~/mast.txt"
+'4  1  2  ~/test.txt
+|4,52,1,2,1637303356,"~/test.txt"
+'5  8  46  ~/docker/dockerfile
+|4,53,8,46,1637034904,"~/docker/dockerfile"
+'6  1  0  /etc/passwd
+|4,54,1,0,1636615421,"/etc/passwd"
+'7  1  0  /etc/gshadow
+|4,55,1,0,1636615312,"/etc/gshadow"
+'8  1  0  /etc/group
+|4,56,1,0,1636615295,"/etc/group"
+'9  1  0  /etc/sudoers
+|4,57,1,0,1636614972,"/etc/sudoers"
 
 # Jumplist (newest first):
--'  4  42  ~/one.txt
-|4,39,4,42,1637308750,"~/one.txt"
--'  2  38  ~/one.txt
-|4,39,2,38,1637308727,"~/one.txt"
 -'  2  38  ~/one.txt
 |4,39,2,38,1637308526,"~/one.txt"
 -'  2  0  ~/one.txt
@@ -61,16 +57,6 @@
 |4,39,1,0,1637307614,"~/one.txt"
 -'  1  0  ~/one.txt
 |4,39,1,0,1637307614,"~/one.txt"
--'  1  0  ~/one.txt
-|4,39,1,0,1637307614,"~/one.txt"
--'  1  34  ~/new.txt
-|4,39,1,34,1637304005,"~/new.txt"
--'  1  34  ~/new.txt
-|4,39,1,34,1637304005,"~/new.txt"
--'  1  34  ~/new.txt
-|4,39,1,34,1637304005,"~/new.txt"
--'  1  34  ~/new.txt
-|4,39,1,34,1637304005,"~/new.txt"
 -'  1  34  ~/new.txt
 |4,39,1,34,1637304005,"~/new.txt"
 -'  1  34  ~/new.txt
@@ -95,38 +81,6 @@
 |4,39,2,15,1637303421,"~/mast.txt"
 -'  2  15  ~/mast.txt
 |4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  2  15  ~/mast.txt
-|4,39,2,15,1637303421,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
--'  1  0  ~/mast.txt
-|4,39,1,0,1637303397,"~/mast.txt"
 -'  1  0  ~/mast.txt
 |4,39,1,0,1637303397,"~/mast.txt"
 -'  1  0  ~/mast.txt
@@ -175,38 +129,6 @@
 |4,39,1,2,1637303356,"~/test.txt"
 -'  1  2  ~/test.txt
 |4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
--'  1  2  ~/test.txt
-|4,39,1,2,1637303356,"~/test.txt"
 -'  8  46  ~/docker/dockerfile
 |4,39,8,46,1637034904,"~/docker/dockerfile"
 -'  8  46  ~/docker/dockerfile
@@ -249,17 +171,94 @@
 |4,39,8,46,1637034904,"~/docker/dockerfile"
 -'  8  46  ~/docker/dockerfile
 |4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  8  46  ~/docker/dockerfile
+|4,39,8,46,1637034904,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
+-'  1  0  ~/docker/dockerfile
+|4,39,1,0,1637034880,"~/docker/dockerfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/one.txt
-	*	1637308749	0
-	"	4	42
-	^	4	43
-	.	4	42
+	*	1637308524	0
+	"	2	38
+	^	2	39
+	.	2	38
 	+	1	19
 	+	2	38
-	+	4	42
 
 > ~/new.txt
 	*	1637304002	0
